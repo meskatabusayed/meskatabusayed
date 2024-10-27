@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/9NFDYvB/Navy-And-White-Geometric-Technology-Linked-In-Banner.png" alt="Cover Image" width="100%" />
 </p>
-# 💻 Meskat Mohammad Abu Sayed
+### 💻 Meskat Mohammad Abu Sayed
 
 **`MERN Stack Developer | CSE Student Specializing in AIML`**
 
