@@ -7,6 +7,11 @@
 
 Hi, I’m Meskat Mohammad Abu Sayed, a passionate web developer and Computer Science Engineering student at Brainware University, specializing in AI and ML. I focus on building impactful web applications using the MERN stack, exploring new tech, and expanding my knowledge in AI and ML. I’m also looking to collaborate on MERN stack projects and open to learning from and helping others.
 
+### 👨‍💻 What I’m Working On
+
+I’m currently building dynamic and responsive web applications using the MERN stack. My focus areas include developing intuitive user interfaces, efficient backend solutions, and integrating AI and ML features as part of my studies in CSE with AIML specialization. I'm always open to collaborating on innovative projects and seeking to enhance my skills in full-stack development and machine learning.
+
+
 ### 🚀 About Me
 
 - 🎓 CSE Student at Brainware University specializing in AI and ML.
