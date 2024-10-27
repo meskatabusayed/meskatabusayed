@@ -6,7 +6,7 @@
 </p>
 
 
-**`MERN Stack Developer | CSE Student Specializing in AIML`**
+                                                **`MERN Stack Developer | CSE Student Specializing in AIML`**
 
 Hi, I’m Meskat Mohammad Abu Sayed, a passionate web developer and Computer Science Engineering student at Brainware University, specializing in AI and ML. I focus on building impactful web applications using the MERN stack, exploring new tech, and expanding my knowledge in AI and ML. I’m also looking to collaborate on MERN stack projects and open to learning from and helping others.
 
