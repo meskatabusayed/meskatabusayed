@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://i.ibb.co/9NFDYvB/Navy-And-White-Geometric-Technology-Linked-In-Banner.png" alt="Cover Image" width="100%" />
 </p>
-### 💻 Meskat Mohammad Abu Sayed
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Meskat+Mohammad+Abu+Sayed" alt="Typing SVG" />
+</p>
+
 
 **`MERN Stack Developer | CSE Student Specializing in AIML`**
 
